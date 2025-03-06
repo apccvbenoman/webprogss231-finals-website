@@ -30,7 +30,7 @@ onMounted(fetchGuestbook);
   <div class="container">
     <img :src="'/profile.jpg'" alt="Profile" class="profile-img" />
     <h1>Clarice V. Benoman</h1>
-    <p>Hey I'm Clar! I'm 19 years old, a 2nd year BSCS-SS Student here at APC, and down below are other things about me!</p>
+    <p>Hey, I'm Clar! I'm 19 years old, a 2nd year BSCS-SS Student here at APC, and down below are other things about me!</p>
     
     <h2>Education & Achievements</h2>
     <ul>
